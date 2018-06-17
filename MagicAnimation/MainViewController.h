@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  MagicAnimation
 //
 //  Created by 九尾 on 2018/6/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainViewController : UIViewController
 
 @end
-
